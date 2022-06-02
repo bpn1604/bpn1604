@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @bpn1604
-- 👀 I’m interested in building cool new projects
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on react projects
-- 📫 7871235082
 
+Hi I'm Bipin Mishra
+I am Bipin,web designer,UI/UX developer and hands on full stack web development using Javascript and React.
+
+📫 Reach me out!
+💻 Most used line of code git commit -m "Initial Commit"
+📫 How to reach me:bipinmishra1604@gmail.com
+Top Technologies
+React Badge Javascript Badge Nodejs Badge Mongo Badge HTML Badge css3 bootstrap github Badge
