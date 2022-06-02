@@ -1,5 +1,5 @@
 
-Hi I'm Bipin Mishra
+<h1>Hi I'm Bipin Mishra<h1>
 I am Bipin,web designer,UI/UX developer and hands on full stack web development using Javascript and React.
 
 📫 Reach me out!!
