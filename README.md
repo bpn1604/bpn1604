@@ -16,5 +16,5 @@ I am Bipin,web designer,UI/UX developer and hands on full stack web development 
 ![image](https://user-images.githubusercontent.com/98827173/171575888-2e111228-ab73-4fe6-949f-6a00e40c4736.png)
 ![image](https://user-images.githubusercontent.com/98827173/171575921-03d1a965-e10c-43d7-bf44-6cffbc08ea93.png)
 ![image](https://user-images.githubusercontent.com/98827173/171575948-e45d7317-70c4-48ca-825c-4c89a24dc20b.png)
-
+<img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" />
 
