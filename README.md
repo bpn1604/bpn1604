@@ -1,19 +1,34 @@
+<img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" />
+<h1 align="center">Hi 👋, I'm Bipin Kumar</h1>
+<h3 align="center">A passionate frontend developer keen to learn new skills</h3>
+<img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bpn1604&label=Profile%20views&color=0e75b6&style=flat" alt="bpn1604" /> </p>
 
-<h1 text-align = "centre">Hi I'm Bipin Mishra</h1>
-I am Bipin,web designer,UI/UX developer and hands on full stack web development using Javascript and React.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bpn1604" alt="bpn1604" /></a> </p>
 
-📫 Reach me out!!
-<hr>
-💻 Most used line of code git commit -m "Initial Commit"!
+- 🌱 I’m currently learning **React , Redux**
 
-📫 How to reach me: bipinmishra1604@gmail.com
-<h5>Top Technologies<h5>
+- 👨‍💻 All of my projects are available at [https://bipinkumar.netlify.app/](https://bipinkumar.netlify.app/)
 
+- 💬 Ask me about **Redux , React , JavaScript**
 
-![image](https://user-images.githubusercontent.com/98827173/171575451-572c36ac-1c19-4e67-9923-717479f51bee.png)
-![image](https://user-images.githubusercontent.com/98827173/171575742-12126aa3-b440-4460-acfe-c1e050a9b7c2.png)
-![image](https://user-images.githubusercontent.com/98827173/171575848-54082675-3eac-4088-8e93-fdb859a3270a.png)
-![image](https://user-images.githubusercontent.com/98827173/171575888-2e111228-ab73-4fe6-949f-6a00e40c4736.png)
-![image](https://user-images.githubusercontent.com/98827173/171575921-03d1a965-e10c-43d7-bf44-6cffbc08ea93.png)
-![image](https://user-images.githubusercontent.com/98827173/171575948-e45d7317-70c4-48ca-825c-4c89a24dc20b.png)
+- 📫 How to reach me **bipin.kumar2015@vitalum.ac.in**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ah84UT_-QeqWson2sj_Poa60rJ_0UiLH/view?usp=sharing](https://drive.google.com/file/d/1Ah84UT_-QeqWson2sj_Poa60rJ_0UiLH/view?usp=sharing)
+
+- ⚡ Fun fact **I m hilarious**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bipin mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bipin mishra" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/bipin.kumar2015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/bipin.kumar2015" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bpn1604&show_icons=true&locale=en&layout=compact" alt="bpn1604" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bpn1604&show_icons=true&locale=en" alt="bpn1604" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpn1604&" alt="bpn1604" /></p>
