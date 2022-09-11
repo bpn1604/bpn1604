@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" />
+<img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" style="height:300px;" />
 <h1 align="center">Hi 👋, I'm Bipin Kumar</h1>
 <h3 align="center">A passionate frontend developer keen to learn new skills</h3>
 <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
