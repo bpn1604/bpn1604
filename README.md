@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **bipin.kumar2015@vitalum.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ah84UT_-QeqWson2sj_Poa60rJ_0UiLH/view?usp=sharing](https://drive.google.com/file/d/1Ah84UT_-QeqWson2sj_Poa60rJ_0UiLH/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1WiH4OJaCoNcgs4gNQrFAGlxPxtV1iRIE/view?usp=sharing
 
 - ⚡ Fun fact **I m hilarious**
 
