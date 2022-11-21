@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1WiH4OJaCoNcgs4gNQrFAGlxPxtV1iRIE/view?usp=sharing
 
-- ⚡ Fun fact **I m hilarious**
+- ⚡ Fun fact **I love to explore , be it anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
