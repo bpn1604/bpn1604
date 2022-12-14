@@ -23,7 +23,7 @@
 - ⚡ Fun fact **I love to explore , be it anything**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/bipin-mishra-14a136112/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" /> </a>
+<a href="https://www.linkedin.com/in/bipin-mishra-14a136112/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" width = "80px
 <p align="left">
   <a href="https://www.linkedin.com/in/bipin-mishra-14a136112/" target="blank"></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/bipin.kumar2015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/bipin.kumar2015" height="30" width="40" float="left" /></a>
