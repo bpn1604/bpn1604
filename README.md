@@ -31,17 +31,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display:flex">
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" height="50px" width="50px" />
-  </div>
-  <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="React" height="50px" width="50px" />
-    </div>
-  <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/220px-Unofficial_JavaScript_logo_2.svg.png"  height="50px" width="50px"  />
-    </div>
-</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bpn1604&show_icons=true&locale=en&layout=compact" alt="bpn1604" /></p>
 
