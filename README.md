@@ -32,7 +32,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div display:"flex" margin:"20px">
+<div display:"flex" margin:"20px" gap:"20px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" height="50px" width="50px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="React" height="50px" width="50px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/220px-Unofficial_JavaScript_logo_2.svg.png"  height="50px" width="50px"  />
