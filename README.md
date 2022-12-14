@@ -26,13 +26,14 @@
 <a href="https://www.linkedin.com/in/bipin-mishra-14a136112/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" width = "80px
 <p align="left">
   <a href="https://www.linkedin.com/in/bipin-mishra-14a136112/" target="blank"></a>
+  
 <a href="https://codesandbox.com/https://codesandbox.io/u/bipin.kumar2015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/bipin.kumar2015" height="30" width="40" float="left" /></a>
   
 </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div display:"flex" margin:"20px" gap:"20px">
+<div display:"flex" style="margin:20px ; gap:"20px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" height="50px" width="50px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="React" height="50px" width="50px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/220px-Unofficial_JavaScript_logo_2.svg.png"  height="50px" width="50px"  />
