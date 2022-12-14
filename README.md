@@ -31,9 +31,10 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+<div display="flex">
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>  </p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" height="50px" width="50px" />
-
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bpn1604&show_icons=true&locale=en&layout=compact" alt="bpn1604" /></p>
 
