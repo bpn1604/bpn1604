@@ -38,7 +38,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="React" height="50px" width="50px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/220px-Unofficial_JavaScript_logo_2.svg.png"  height="50px" width="50px"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="50px" width="50px" />
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU)" height="50px" width="50px" />
+  <img src="https://chakra-ui.com/og-image.png" height="50px" width="50px" />
   
   
   </div>
