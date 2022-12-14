@@ -31,11 +31,11 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display:flex">
-  <div>b</div>
-  <div>o</div>
-  <div>o</div>
-  <div>p</div>
+<div style="display:flex ; flex-direction:row">
+  <div>React</div>
+  <div>React</div>
+  <div>Javascript</div>
+  <div>HTML</div>
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bpn1604&show_icons=true&locale=en&layout=compact" alt="bpn1604" /></p>
 
