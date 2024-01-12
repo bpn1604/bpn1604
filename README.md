@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Bipin Kumar</h1>
-<h3 align="center">A passionate frontend developer keen to learn new skills</h3>
+<h3 align="center">Passionate software developer with one year of experience, specializing in crafting efficient and scalable solutions. Proficient in a variety of technologies, with a focus on creating high-quality software. Committed to continuous learning and staying abreast of industry trends.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bpn1604&label=Profile%20views&color=0e75b6&style=flat" alt="bpn1604" /> </p>
 
