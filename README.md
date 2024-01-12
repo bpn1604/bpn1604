@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bpn1604" alt="bpn1604" /></a> </p>
 
-- 🌱 I’m currently learning **React , Redux**
+- 🌱 Experienced in **React , Redux**, proficient in building dynamic and efficient web applications.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-pex8.vercel.app/)
 
