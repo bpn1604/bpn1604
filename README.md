@@ -12,14 +12,13 @@
 
 - 🌱 I’m currently learning **React , Redux**
 
-- 👨‍💻 All of my projects are available at [https://bipinkumar.netlify.app/](https://bipinkumar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-pex8.vercel.app/)
 
 - 💬 Ask me about **Redux , React , JavaScript**
 
 - 📫 How to reach me **bipin.kumar2015@vitalum.ac.in**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1WiH4OJaCoNcgs4gNQrFAGlxPxtV1iRIE/view?usp=sharing
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1EzWZpPecjJJNiCg6OGUAIIUBtx1TTj4t/view
 - ⚡ Fun fact **I love to explore , be it anything**
 
 <h3 align="left">Connect with me:</h3>
