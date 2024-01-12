@@ -12,7 +12,7 @@
 
 - 🌱 Experienced in **React , Redux**, proficient in building dynamic and efficient web applications.
 
-- 👨‍💻 All of my projects are available at [https://portfolio-pex8.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-pex8.vercel.app/]
 
 - 💬 Ask me about **Redux , React , JavaScript**
 
